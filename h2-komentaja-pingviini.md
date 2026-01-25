@@ -131,6 +131,13 @@ processor - tässä tapauksessa prosessorina isäntäkoneen oma 12. sukupolven i
 disk - näyttää koneen 64gb virtuaalikiintolevyn
 
 
+## Lähteet 
+
+https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
+
+https://terokarvinen.com/linux-palvelimet/#h2-komentaja-pingviini
+
+
 
 
 
