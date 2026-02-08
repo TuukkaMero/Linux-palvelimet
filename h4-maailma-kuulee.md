@@ -135,4 +135,31 @@ Viimeiseksi päivitin palvelimen ohjelmat komennolla:
 
 Tässä tehtävässä asensin weppipalvelvelimen virtuaalipalvelimelleni
 
+Aloitin asentamalla apache2 virtuaalipalvelimelleni
 
+    sudo apt-get update
+    sudo apt install apache2
+
+Kokeilin apache asennuksen jälkeen, että testisivu tuli näkyviin
+
+![testi](https://github.com/TuukkaMero/Linux-palvelimet/blob/main/tuukanservu%20testisivu.png)
+
+Seuraavaksi korvasin testisivun ja kokeilin sen toimivuutta
+
+![korvaus](https://github.com/TuukkaMero/Linux-palvelimet/blob/main/uusi%20index.png)
+
+![testi](https://github.com/TuukkaMero/Linux-palvelimet/blob/main/virtuaalipalvelin%20testisivu.png)
+
+Tässä testisivu kokeiltuna myös puhelimella
+
+![puhelin](https://github.com/TuukkaMero/Linux-palvelimet/blob/main/testisivu%20puhelin.png)
+
+Molemmat testit toimivat joten testisivu oli korvattu ja toimi kuten pitikin
+
+
+
+## Lähteet 
+
+https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/
+
+https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/
