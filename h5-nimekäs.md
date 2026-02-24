@@ -131,3 +131,7 @@ DNS-palvelin, joka vastasi kyselyyn (tässä 8.8.8.8)
 ## Lähteet 
 
 https://terokarvinen.com/linux-palvelimet/
+
+https://www.geeksforgeeks.org/linux-unix/dig-command-in-linux-with-examples/
+
+https://www.geeksforgeeks.org/linux-unix/host-command-in-linux-with-examples/
