@@ -168,6 +168,15 @@ Einarin kotisivun luonti:
 ![es](https://github.com/TuukkaMero/Linux-palvelimet/blob/main/einari%20sivu.png)
 
 
+Kuormitusanalyysi:
+
+- CPU kuormitus oli matala (load average alle 0.50)
+
+- RAM käyttö pysyi alle 30 %
+
+- Apache ja MariaDB käyttivät suurimman osan resursseista
+
+
 
 ## Lähteet 
 
